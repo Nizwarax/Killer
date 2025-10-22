@@ -232,7 +232,7 @@ URL HTTPS : https://${domain}/dashboard
 username  : ${userpanel}
 password  : ${passpanel}
 -=================================-
-Jangan lupa join Channel & Grup Telegram saya juga di
+Jangan lupa join Account & Grup Telegram saya juga di
 Telegram Account: https://t.me/Deki_niswara
 Telegram Group: https://t.me/killervpn_store
 -=================================-" > /root/log-install.txt
