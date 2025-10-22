@@ -233,7 +233,7 @@ username  : ${userpanel}
 password  : ${passpanel}
 -=================================-
 Jangan lupa join Channel & Grup Telegram saya juga di
-Telegram Channel: https://t.me/Deki_niswara
+Telegram Account: https://t.me/Deki_niswara
 Telegram Group: https://t.me/killervpn_store
 -=================================-" > /root/log-install.txt
 profile
